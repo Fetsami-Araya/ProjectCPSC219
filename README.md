@@ -2,4 +2,7 @@
 CPSC 219 Project
 
 Testing
-Trying it out
+
+public void setName(){}
+public void setID(){}
+
