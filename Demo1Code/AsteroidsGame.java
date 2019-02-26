@@ -90,7 +90,7 @@ public class AsteroidsGame {
 		AsteroidsGame newGame = new AsteroidsGame();
 		newGame.intializeBoard();
 //Allows the user to continue playing the game
-		while (newGame.collisionShipAsteroid()==true) {
+		while (newGame.collisionShipAsteroid()==false) {
 //Prompt user for input
 			Scanner keyboard = new Scanner(System.in);
 			char userChar = keyboard.next(".").charAt(0);
