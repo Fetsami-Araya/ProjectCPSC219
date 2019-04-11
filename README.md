@@ -1,6 +1,6 @@
 # ProjectCPSC219
 CPSC 219 Project
-DEMO 2 README - UPDATED 
+README - UPDATED 
 
 
 We are still making the game Asteroids,
@@ -15,3 +15,7 @@ Our code for our third demo is in the folder Demo 3. This folder will contain ou
 
 
 Refer to PROJECT PROPOSAL FOR DESCRIPTION AT THE BOTTOM OF FILE 
+
+/Installation and Running Instruction
+Download the compressed file and decompress it. Open Eclipse and click the File button at the top left corner. Choose open project from file system and find the file folder decompressed from the compress file. Right click the Project imported and click Run As. Click the 1 Java Application option and choose 
+Main – application then click OK.
