@@ -1,24 +1,15 @@
-# ProjectCPSC219
-CPSC 219 Project
-README - UPDATED 
+The game is in the compressed file called Asteroids.zip.
 
+Installation Instruction
+Download the compressed file and decompress it. 
+Open Eclipse and click the File button at the top left corner. 
+Choose create new project and import the file folder 
+decompressed from the compress file to the src folder. 
+Right click the Project imported and click Run As. Click the 
+1 Java Application option and choose Main – application then click OK.
 
-We are making the game Asteroids,
+Junit Test for the GUI based Version
+Right click each class with TEST in the title and run as Junit test. 
+The Junit tests are automatically test and the result should be on the left side of the Eclipse.
+If the Junit test is not able to run, import Junit 5 library.
 
-Our code for our first demo is in the folder Demo1Code. This folder contains the console version of our game.
-This version contains our obstacles (asteroids), our avatar (spaceship), and allows the user to interact with the game by attempting to dodge the asteroids.
-
-Our code for our second demo is in the folder Demo 2. This folder contains the first version of our game with graphics. Here we have ... classes for Spaceship (the avatar) which can generate instances of the Shot class which let the user shoot the Asteroids (the obstacles). The game is run through the main class Asteroids Game.
-
-Our code for our third demo is in the folder Demo 3. This folder will contain our starting menu which handles users clicking and begining the game. The majority of the code for the start menu is located in the ViewManager file under the View class. Our final step for the final demo is to be able to connect the menu and beggin a new instance of the Asteroids game. 
-
-Our code for the final submission is in the folder FinalVersion. Our game is complete with all the functionally we had planned correctly implemented.
-
-
-
-Refer to PROJECT PROPOSAL FOR DESCRIPTION AT THE BOTTOM OF FILE 
-
-/Installation and Running Instruction
-
-
-Download the folder FinalVersion, and open it in Eclipse or any other IDE (Note: Ensure that you have JavaFX downloaded on your system). In Eclipse, choose open project from file system and select the src folder from FinalVersion as the project to import. Then, run the Main class in the application package as a Java Application.
