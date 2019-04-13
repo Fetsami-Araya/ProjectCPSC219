@@ -3,7 +3,7 @@ CPSC 219 Project
 README - UPDATED 
 
 
-We are still making the game Asteroids,
+We are making the game Asteroids,
 
 Our code for our first demo is in the folder Demo1Code. This folder contains the console version of our game.
 This version contains our obstacles (asteroids), our avatar (spaceship), and allows the user to interact with the game by attempting to dodge the asteroids.
@@ -12,6 +12,8 @@ Our code for our second demo is in the folder Demo 2. This folder contains the f
 
 Our code for our third demo is in the folder Demo 3. This folder will contain our starting menu which handles users clicking and begining the game. The majority of the code for the start menu is located in the ViewManager file under the View class. Our final step for the final demo is to be able to connect the menu and beggin a new instance of the Asteroids game. 
 
+Our code for the final submission is in the folder FinalVersion. Our game is complete with all the functionally we had planned correctly implemented.
+
 
 
 Refer to PROJECT PROPOSAL FOR DESCRIPTION AT THE BOTTOM OF FILE 
@@ -19,5 +21,4 @@ Refer to PROJECT PROPOSAL FOR DESCRIPTION AT THE BOTTOM OF FILE
 /Installation and Running Instruction
 
 
-Download the compressed file and decompress it. Open Eclipse and click the File button at the top left corner. Choose open project from file system and find the file folder decompressed from the compress file. Right click the Project imported and click Run As. Click the 1 Java Application option and choose 
-Main – application then click OK.
+Download the folder FinalVersion, and open it in Eclipse or any other IDE (Note: Ensure that you have JavaFX downloaded on your system). In Eclipse, choose open project from file system and select the src folder from FinalVersion as the project to import. Then, run the Main class in the application package as a Java Application.
