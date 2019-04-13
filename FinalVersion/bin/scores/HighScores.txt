@@ -1,0 +1,17 @@
+NA,60,0
+NA,60,0
+NA,60,0
+NA,60,0
+NA,60,0
+NA,60,0
+NA,60,0
+Sami,60,0
+Andrew,47,9
+Esther,49,6
+Sami,35,9
+Edi,47,10
+edi,44,9
+Sami,31,10
+edi,31,8
+Sami,37,10
+Akberet,39,10
